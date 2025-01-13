@@ -23,3 +23,7 @@ título	Uma imagem para usar como capa de livro, misturando os aspectos da guerr
 ✨ Features
 Conteúdo gerado via ChatGPT
 Imagens geradas via Microsoft Designer
+
+
+Resultado final:
+tronos de poder.pdf
